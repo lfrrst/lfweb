@@ -5,6 +5,9 @@
 
 main:
 
+  - name: Resume
+    url: '#posts'
+    weight: 5
   - name: Posts
     url: '#posts'
     weight: 10
