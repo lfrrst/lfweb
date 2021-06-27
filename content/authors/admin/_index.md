@@ -3,7 +3,7 @@ bio: My interests include data analytics, machine learning, and oddball computer
 education:
   courses:
   - course: MS in Business Analytics
-    institution: University of Washington Graduate School
+    institution: University of Washington Tacoma
     year: 2021
   - course: BA in Business Administration - Accounting
     institution: University of Washington Tacoma
