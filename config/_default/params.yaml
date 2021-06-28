@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: 1950s
 day_night: true
 font: ''
 font_size: L
@@ -147,7 +147,8 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  microsoft_clarity: '7boe0yxowe'
+  google_analytics: 'G-2WCQ3XSQF7'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
